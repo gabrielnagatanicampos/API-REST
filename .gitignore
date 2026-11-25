@@ -1,0 +1,20 @@
+# Java
+*.class
+*.log
+*.jar
+*.war
+hs_err_pid*
+target/
+build/
+out/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Outros
+.DS_Store
+.vscode/
