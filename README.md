@@ -1,6 +1,6 @@
 API-REST
 
-Projeto de estudo focado na prática de conceitos de APIs REST — construção de endpoints, verbos HTTP (GET, POST, PUT, DELETE) e estrutura básica de uma aplicação Java seguindo o padrão REST.
+Projeto de estudo focado na prática de conceitos de APIs REST: construção de endpoints, verbos HTTP (GET, POST, PUT, DELETE) e estrutura básica de uma aplicação Java seguindo o padrão REST.
 
 Objetivo
 
